@@ -55,7 +55,8 @@ The following command should open a ipython webserver in the current folder
 
 ## Tutorials
 
-- [ ] TBD: [Basics of graph modelling with python]()
+- [Basics of graph modelling with python](https://github.com/taniki/workshop-graphmodels-python/blob/master/Basics of graph modelling.ipynb)
+- [Signed graphs](https://github.com/taniki/workshop-graphmodels-python/blob/master/Signed graphs.ipynb)
 
 ## models
 
